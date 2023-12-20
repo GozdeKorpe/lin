@@ -1,0 +1,3 @@
+<launch>
+	<node name="aruco" pkg="aruco" type="estimator_v4.py" output="screen"></node>
+</launch>
